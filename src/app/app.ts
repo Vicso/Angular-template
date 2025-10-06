@@ -1,5 +1,5 @@
 import { Component, signal } from '@angular/core';
-import { ConsoleList } from './modules/console-list/console-list';
+import { ConsoleList } from './components/console-list/console-list';
 
 @Component({
   selector: 'app-root',
